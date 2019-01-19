@@ -1,0 +1,2 @@
+global.grav = 1;
+

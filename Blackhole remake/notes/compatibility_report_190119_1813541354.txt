@@ -1,0 +1,21 @@
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Converting GML script: ${project_dir}\objects\obj_player\Step_0.gml
+Converted description /// @description Physics
+
+Converting GML script: ${project_dir}\objects\obj_grav1\Step_0.gml
+Converted builtin - line 1: view_angle[0] = angle -> __view_set( e__VW.Angle, 0, angle )
+
+Converting GML script: ${project_dir}\objects\obj_grav2\Step_0.gml
+Converted builtin - line 1: view_angle[0] = angle -> __view_set( e__VW.Angle, 0, angle )
+
+Game speed set to 30
+Added compatibility script 'action/action_current_room.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_message.gml'
+Added compatibility script 'action/action_next_room.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'view/__view_get.gml'
